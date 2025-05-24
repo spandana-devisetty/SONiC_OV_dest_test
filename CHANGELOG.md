@@ -1,3 +1,24 @@
+## 2025-05-24.8
+
+**Count of OVs in the tarball**: 7
+
+*Refer to the **index.csv** file to determine which OVs are included in the tarball.*
+
+**MD5**: fe81c6471f7ded513587418bb19b26fe
+
+**ADDED**
+
+FJZ2712JPAP.vcj
+
+**DELETED**
+
+
+
+**UPDATED**
+
+
+
+
 ## 2025-05-24.7
 
 **Count of OVs in the tarball**: 6
